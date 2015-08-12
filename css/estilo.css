@@ -1,0 +1,76 @@
+/* aquí va el estilo del formularo */
+
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+	font-family: verdana;
+}
+
+
+
+
+#romper{
+	clear: both;
+}
+
+
+
+#identificacion,
+#nombres,
+#sexo,
+#correo,
+#telefono{
+	width: 220px;
+	height: 16	px;
+	padding: 2px;
+	margin: 10px;
+	font-family: verdana;
+
+}
+
+#mainformulario{
+	width: 260px;
+	margin-left: 30% !important;
+	border: 1px solid #060;
+	margin-top: 50px;
+}
+
+#tituloformulario{
+	height: 35px;
+	color: #fff;
+	background: #060;
+}
+
+
+#btnEnviar{
+	border:0;
+	height: 30px;
+	border-radius: 5px 5px 5px 5px;
+	background:#060;
+	color: white;
+	padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 50%;
+
+	font-family: verdana;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
